@@ -1,4 +1,4 @@
-import jsonData from './page-content.json';
+import jsonData from 'https://grant-jhp.github.io/Web-Assignment/page-content.json';
 
 var pageHash, pageData;
 
